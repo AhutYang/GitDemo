@@ -1,2 +1,2 @@
 # GitDemo
-Test Git Oprations
+Git repository init
