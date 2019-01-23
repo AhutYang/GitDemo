@@ -1,2 +1,1 @@
-# GitDemo
-Git repository init
+Git repository
